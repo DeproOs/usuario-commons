@@ -1,4 +1,4 @@
-package com.deproos.springboot.usuarios.commons;
+package com.deproos.springboot.commons.usuarios;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
